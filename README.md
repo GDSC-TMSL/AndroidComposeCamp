@@ -16,13 +16,21 @@ Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with
 
 ## Timeline
 
-- ### The course will consist of **3 weeks of training for Begineer Track** and **2 weeks for Expert Track**
+- ### The course will consist of **5 sessions (3 online, 2 in person)**
 
-- ### Live online classes will be held on every saturday till the course ends
+- 8th Sep 22 (Unit 1) _ONLINE_
+
+- 11th Sep 22 (Unit 2) _ONLINE_
+
+- 15th Sep 22 (Unit 3, surpise module 1) _ONLINE_
+
+- 20th Sep 22 (Unit 4, app team assignment, surpise module 2) _In Person_
+
+- 24th Sep 22 (Final Day, Public App display) _In Person_
 
 - ### At end of the course you will be given a week to create something of your own with the things you have learnt and showcase it to the public offline on stage
 
-- `A surprise 🤩 bonus module that will help your app stand out`
+- `Two surprise 🤩 bonus modules that will help your app stand out`
 
 ## All the course materials will be uploaded here in this repo so make sure to star(⭐) this repo
 
