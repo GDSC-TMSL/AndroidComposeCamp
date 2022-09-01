@@ -4,7 +4,7 @@
 
 Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with your peers the art of creating a native android app with super simple to use Jetpack Compose UI Toolkit
 
-## The camp will be starting from **10th Septempber 2022**
+## The camp will be starting from **8th Septempber 2022**
 
 ![Android Studio Logo](./Android%20Studio.png)
 
