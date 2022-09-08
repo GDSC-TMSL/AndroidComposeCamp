@@ -20,7 +20,7 @@ Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with
 
 - 8th Sep 22 (Unit 1) _ONLINE_
 
-- 11th Sep 22 (Unit 2) _ONLINE_
+- 12th Sep 22 (Unit 2) _ONLINE_
 
 - 15th Sep 22 (Unit 3, surpise module 1) _ONLINE_
 
