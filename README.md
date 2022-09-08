@@ -16,17 +16,17 @@ Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with
 
 ## Timeline
 
-- ### The course will consist of **5 sessions (3 online, 2 in person)**
+### The course will consist of **5 sessions (3 online, 2 in person)**
 
 - <b>8th Sep 22 (Unit 1) - _ONLINE_</b>
 
   <b>__Materials__:<b>
 
-      1. Introduction to Kotlin - [Click to access material](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
+  1. Introduction to Kotlin - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
       
-      2. Set Up Android Studio - [Click to access material](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2)
+  2. Set Up Android Studio - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2)
       
-      3. Build a Basic Layout - [Click to access material](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
+  3. Build a Basic Layout - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
 
 - <b>12th Sep 22 (Unit 2) _ONLINE_</b>
 
