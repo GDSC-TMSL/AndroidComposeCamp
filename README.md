@@ -1,18 +1,13 @@
 # Compose Camp 22 - GDSC-TMSL
 
-![Compose Camp Logo](./readme_utils/ComposeCampLogo.png)
+![Compose Camp Logo](./readme_utils/ComposeCampLogo.png) ![Android Studio Logo](./readme_utils/AndroidStudio.png)
 
 Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with your peers the art of creating a native android app with super simple to use Jetpack Compose UI Toolkit
 
-## The camp will be starting from **8th Septempber 2022**
+The camp will be from **8th Septempber 2022 to 29th September 2022**
 
-![Android Studio Logo](./readme_utils/AndroidStudio.png)
+### All the course materials will be uploaded here in this repo so make sure to star(⭐) this repo
 
-## There will be two tracks to choose from -
-
-- **Begineer Track**: If you are a novice at android development this is for you.
-
-- **Expert Track**: If you already have some experience with traditional android development and would like to try this new way of developing apps this is for you
 
 ## Timeline
 
@@ -52,15 +47,16 @@ Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with
 
       _to be updated_
 
-- ### At end of the course you will be given a week to create something of your own with the things you have learnt and showcase it to the public offline on stage
+     #### At end of the course you will be given a week to create something of your own with the things you have learnt and showcase it to the public offline on stage
 
-- `Two surprise 🤩 bonus modules that will help your app stand out`
+ `Two surprise 🤩 bonus modules that will help your app stand out`
+ 
+ - <b>29th Sep 22 (Experienced Track) _ONLINE_</b>
 
   <b>__Materials__:<b>
 
       _to be updated_
 
-## All the course materials will be uploaded here in this repo so make sure to star(⭐) this repo
 
 ## Why Jetpack Compose ?? 🤔
 
