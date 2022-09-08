@@ -1,12 +1,12 @@
 # Compose Camp 22 - GDSC-TMSL
 
-![Compose Camp Logo](./ComposeCampLogo.png)
+![Compose Camp Logo](./readme_utils/ComposeCampLogo.png)
 
 Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with your peers the art of creating a native android app with super simple to use Jetpack Compose UI Toolkit
 
 ## The camp will be starting from **8th Septempber 2022**
 
-![Android Studio Logo](./Android%20Studio.png)
+![Android Studio Logo](./readme_utils/AndroidStudio.png)
 
 ## There will be two tracks to choose from -
 
@@ -36,7 +36,7 @@ Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with
 
 ## Why Jetpack Compose ?? 🤔
 
-![Jetpack Compose Logo](./ComposeLogo.png)
+![Jetpack Compose Logo](./readme_utils/ComposeLogo.png)
 
 - `Less code` - Do more with less code and avoid entire classes of bugs. Code is simpler and easier to maintain.
 
@@ -48,10 +48,10 @@ Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with
 
 ### Compose apps are written in the [Kotlin](https://developer.android.com/kotlin) programming language
 
-![Kotlin Logo](./Kotlin.png)
+![Kotlin Logo](./readme_utils/Kotlin.png)
 
 ### Kotlin is the language that the majority of professional Android developers use to build apps. Kotlin provides you the rock solid stability and reliable JVM with a very concise and readable syntax
 
-![Community Learning](./Community%20Learning.png)
+![Community Learning](./readme_utils/CommunityLearning.png)
 
 ### So lets embark on this beautiful and exciting journey with your friends and peers to unleash the true power of community learning and hope to see you guys onboard
