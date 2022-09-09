@@ -104,19 +104,23 @@ This is a multi line comment
 **Dealing with functions in kotlin:**
 
 The general syntax
+
 ![Function Sytax](./Function.png)
 
 **Defining and calling function:**
 
 Let us define a custom function called birthdayGreeting() and write some code in it. As main is the starting point of execution of kotlin code I’m calling the function from there.
+
 ![Calling a function](./CallingaFunction.png)
 
 **Function with a return value:**
 
 This is the syntax of the function which returns some output on the basis of the input given
+
 ![Function with return value](./FunWithReturnValue.png)
 
 The below function returns a `String` type data
+
 ![String type function](./ReturnString.png)
 
 **Special Mention void/Unit return type:**
@@ -124,6 +128,7 @@ The below function returns a `String` type data
 In other statically typed general programming languages like java or c++ when a function does not return anything this is called _void_ return type. In kotlin the same thing is called `Unit` return type. It is optional to write `:Unit`
 
 The below two functions are same
+
 ![Function with Unit Return type](./UnitReturn.png)
 
 ```kotlin
