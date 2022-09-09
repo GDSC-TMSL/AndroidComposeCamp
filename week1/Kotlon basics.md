@@ -47,7 +47,7 @@ There are two(2) ways to create variables in kotlin.
 - **Var** keyword: It is used to create variables which can change their value with the progress of code execution.
 
 Different data types supported by kotlin:
-![Different data types supported by kotlin](./KotlinDataTypes.png)
+![Different data types supported by kotlin](./util/KotlinDataTypes.png)
 
 **Variable declaration & Usage:**
 
@@ -84,11 +84,11 @@ fun main() {
 
 This is how you use variables in kotlin. 99% of the time kotlin infers the data type from the value. So, you can most probably skip the :Int part.
 
-![Syntax of variable declaration in kotlin](./variableDecalrationSyntax.png)
+![Syntax of variable declaration in kotlin](./util/variableDecalrationSyntax.png)
 
 **String Interpolation in kotlin:**
 
-![String interpolation in kotlin](./StringInterpolation.png)
+![String interpolation in kotlin](./util/StringInterpolation.png)
 
 Here in the println() line, anything written within `${}` represents the dynamic part of the string.
 This contains kotlin code which will be evaluated and its results will be replaced in place in the output string.
@@ -96,32 +96,32 @@ This contains kotlin code which will be evaluated and its results will be replac
 **Commenting on your code:**
 
 This is a single line comment
-![Single Line Comment](./singlelineComment.png)
+![Single Line Comment](./util/singlelineComment.png)
 
 This is a multi line comment
-![Multi Line Comment](./MultilineComment.png)
+![Multi Line Comment](./util/MultilineComment.png)
 
 **Dealing with functions in kotlin:**
 
 The general syntax
 
-![Function Sytax](./Function.png)
+![Function Sytax](./util/Function.png)
 
 **Defining and calling function:**
 
 Let us define a custom function called birthdayGreeting() and write some code in it. As main is the starting point of execution of kotlin code I’m calling the function from there.
 
-![Calling a function](./CallingaFunction.png)
+![Calling a function](./util/CallingaFunction.png)
 
 **Function with a return value:**
 
 This is the syntax of the function which returns some output on the basis of the input given
 
-![Function with return value](./FunWithReturnValue.png)
+![Function with return value](./util/FunWithReturnValue.png)
 
 The below function returns a `String` type data
 
-![String type function](./ReturnString.png)
+![String type function](./util/ReturnString.png)
 
 **Special Mention void/Unit return type:**
 
@@ -129,7 +129,7 @@ In other statically typed general programming languages like java or c++ when a 
 
 The below two functions are same
 
-![Function with Unit Return type](./UnitReturn.png)
+![Function with Unit Return type](./util/UnitReturn.png)
 
 ```kotlin
 fun birthdayGreeting() {
@@ -157,7 +157,7 @@ Here `Android` is arguement and `name` is parameter
 **Function with multiple parameters:**
 This is an example of a function which accepts multiple parameters
 
-![Multiple Params](./MultipleParams.png)
+![Multiple Params](./util/MultipleParams.png)
 
 **Named Argument:**
 
