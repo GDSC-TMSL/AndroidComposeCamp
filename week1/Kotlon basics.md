@@ -221,8 +221,6 @@ You are now 15 years old
 
 ## Setting Up Android Studio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uY3lsHP7GvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Download Android Studio
 Open any web browser and navigate to the [Android Studio download page](https://developer.android.com/studio/?gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO3zEhdK4_I0CEZic3UH4dl-9gVXuHFR9dCl3TOHKjmv3xWLU3UxfhYaApfAEALw_wcB&gclsrc=aw.ds).
 This is the Android Developers website, where you can download Android Studio. This page automatically detects your operating system.
