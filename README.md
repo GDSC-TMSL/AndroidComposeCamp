@@ -1,6 +1,6 @@
 # Compose Camp 22 - GDSC-TMSL
 
-![Compose Camp Logo](./readme_utils/ComposeCampLogo.png) ![Android Studio Logo](./readme_utils/AndroidStudio.png)
+<!---![Compose Camp Logo](./readme_utils/ComposeCampLogo.png) ![Android Studio Logo](./readme_utils/AndroidStudio.png)--->
 
 Compose Camp 22 by GDSC-TMSL provides a great oppourtunity for you to learn with your peers the art of creating a native android app with super simple to use Jetpack Compose UI Toolkit
 
