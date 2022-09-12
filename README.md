@@ -26,8 +26,12 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 - <b>12th Sep 22 (Unit 2) _ONLINE_</b>
 
   <b>__Materials__:<b>
-
-      _to be updated_
+    1. Kotlin Fundamentals - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-1)
+      
+    2. Add a button to an App - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
+      
+    3. Interact with UI and State - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
+  
 
 - <b>15th Sep 22 (Unit 3, surpise module 1) _ONLINE_</b>
 
