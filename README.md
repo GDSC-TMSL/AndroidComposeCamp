@@ -8,59 +8,55 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 
 ### All the course materials will be uploaded here in this repo so make sure to star(⭐) this repo
 
-
 ## Timeline
 
 ### The course will consist of **5 sessions (3 online, 2 in person)**
 
 - <b>8th Sep 22 (Unit 1) - _ONLINE_</b>
 
-  <b>__Materials__:<b>
+  <b>**Materials**:<b>
 
   1. Introduction to Kotlin - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
-      
   2. Set Up Android Studio - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2)
-      
   3. Build a Basic Layout - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3)
 
 - <b>12th Sep 22 (Unit 2) _ONLINE_</b>
 
-  <b>__Materials__:<b>
-    1. Kotlin Fundamentals - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-1)
-      
-    2. Add a button to an App - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
-      
-    3. Interact with UI and State - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
-  
+  <b>**Materials**:<b>
+
+  1. Kotlin Fundamentals - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-1)
+
+  2. Add a button to an App - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
+
+  3. Interact with UI and State - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
 
 - <b>15th Sep 22 (Unit 3, surpise module 1) _ONLINE_</b>
 
-  <b>__Materials__:<b>
+  <b>**Materials**:<b>
 
       _to be updated_
 
 - <b>20th Sep 22 (Unit 4, app team assignment, surpise module 2) _In Person_<b>
 
-  <b>__Materials__:<b>
+  <b>**Materials**:<b>
 
       _to be updated_
 
 - <b>24th Sep 22 (Final Day, Public App display) _In Person_</b>
 
-  <b>__Materials__:<b>
+  <b>**Materials**:<b>
 
       _to be updated_
 
-     #### At end of the course you will be given a week to create something of your own with the things you have learnt and showcase it to the public offline on stage
+  #### At end of the course you will be given a week to create something of your own with the things you have learnt and showcase it to the public offline on stage
 
- `Two surprise 🤩 bonus modules that will help your app stand out`
- 
- - <b>29th Sep 22 (Experienced Track) _ONLINE_</b>
+`Two surprise 🤩 bonus modules that will help your app stand out`
 
-  <b>__Materials__:<b>
+- <b>29th Sep 22 (Experienced Track) _ONLINE_</b>
+
+<b>**Materials**:<b>
 
       _to be updated_
-
 
 ## Why Jetpack Compose ?? 🤔
 

@@ -2,13 +2,13 @@
 
 ## Week 1 Task
 
-These are the pathways that you need to cover in Unit 1. **Remember, there are total 4units each having 3 pathways. You need to complete all the pathaways and earn all the digital badges to get the certificate. Below are the links to the pathways of Unit 1 that you need to complete.** Links of the upcoming Units and their pathways will be updated in the upcoming weeks.
+Make sure to go through these training modules before day 2 of the camp.
 
-- Click to access [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1?hl=en)
+- [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1?hl=en)
 
-- Click to access [Set up Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2?hl=en)
+- [Set up Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2?hl=en)
 
-- Click to access [Build a basic layout](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3?hl=en)
+- [Build a basic layout](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-3?hl=en)
 
 ## Kotlin 101
 
