@@ -34,7 +34,9 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 
   <b>**Materials**:<b>
 
-      _to be updated_
+  1. More kotlin fundamentals - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-1)
+  2. Building scrollable list - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-2)
+  3. Building beautiful apps - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
 
 - <b>20th Sep 22 (Unit 4, app team assignment, surpise module 2) _In Person_<b>
 
