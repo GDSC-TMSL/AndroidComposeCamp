@@ -1,4 +1,5 @@
-# Content Pathways to cover this week Unit 4
+# Content Pathways to cover this week Unit 4(Navigation and App Architecture)
+
 
 These are the pathways that you need to cover in Unit 4. Remember, there are total 4 units each having 3 pathways. You need to complete all the pathaways and earn all the digital badges to get the certificate. Below are the links to the pathways of Unit 2 that you need to complete. 
 
