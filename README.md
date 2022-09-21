@@ -42,7 +42,11 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 
   <b>**Materials**:<b>
 
-      _to be updated_
+  1. [Architecture components](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
+
+  2. [Navigation in Jetpack Compose](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2)
+
+  3. [Adapt for different screen sizes](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3)
 
 - <b>24th Sep 22 (Final Day, Public App display) _In Person_</b>
 
