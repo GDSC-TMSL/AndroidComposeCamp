@@ -1,6 +1,6 @@
 # Content Pathways to cover EXPERIENCE TRACK
 
-- [EXPERIENCE TRACKS](https://developer.android.com/courses/jetpack-compose/course)
+- [Click to access the EXPERIENCE TRACKS](https://developer.android.com/courses/jetpack-compose/course)
 
     1. Compose essentials
     2. Layouts, theming, and animation
