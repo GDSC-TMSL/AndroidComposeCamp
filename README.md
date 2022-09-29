@@ -60,7 +60,14 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 
 <b>**Materials**:<b>
 
-      _to be updated_
+      - [Click to access the EXPERIENCE TRACKS](https://developer.android.com/courses/jetpack-compose/course)
+
+          1. Compose essentials
+          2. Layouts, theming, and animation
+          3. Architecture and state
+          4. Accessibility, testing, and performance
+          5. Form factors
+
 
 ## Why Jetpack Compose ?? 🤔
 
