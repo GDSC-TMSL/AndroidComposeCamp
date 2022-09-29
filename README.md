@@ -60,7 +60,7 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 
 <b>**Materials**:<b>
 
-      - [Click to access the EXPERIENCE TRACKS](https://developer.android.com/courses/jetpack-compose/course)
+   - [Click to access the EXPERIENCE TRACKS](https://developer.android.com/courses/jetpack-compose/course)
 
           1. Compose essentials
           2. Layouts, theming, and animation
