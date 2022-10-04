@@ -25,10 +25,8 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
   <b>**Materials**:<b>
 
   1. Kotlin Fundamentals - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-1)
-
   2. Add a button to an App - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-2)
-
-  3. Interact with UI and State - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-3-pathway-3)
+  3. Interact with UI and State - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3)
 
 - <b>15th Sep 22 (Unit 3, surpise module 1) _ONLINE_</b>
 
@@ -42,11 +40,9 @@ The camp will be from **8th Septempber 2022 to 29th September 2022**
 
   <b>**Materials**:<b>
 
-  1. [Architecture components](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
-
-  2. [Navigation in Jetpack Compose](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2)
-
-  3. [Adapt for different screen sizes](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3)
+  1. Architecture components - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-1)
+  2. Navigation in Jetpack Compose - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2)
+  3. Adapt for different screen sizes - [click to access](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3)
 
 - <b>24th Sep 22 (Final Day, Public App display) _In Person_</b>
 
